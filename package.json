@@ -1,6 +1,6 @@
 {
   "name": "react-typeform-embed",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "main": "./lib/index.js",
   "engines": {
     "node": ">=4.0.0"
@@ -20,14 +20,13 @@
     "typeform"
   ],
   "dependencies": {
-    "@typeform/embed": "^0.5.8",
-    "react-scripts": "1.0.13"
+    "@typeform/embed": "^0.5.8"
   },
   "peerDependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
   },
-  "homepage": "http://alexgarces.github.io/react-typeform-embed/",
+  "homepage": "https://github.com/mazedesignhq/react-typeform-embed",
   "scripts": {
     "start": "react-scripts start",
     "build:docs": "react-scripts build",
